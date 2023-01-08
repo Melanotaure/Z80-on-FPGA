@@ -1,24 +1,4 @@
 `timescale 1ns / 10ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 08.01.2023 15:22:49
-// Design Name: 
-// Module Name: four_bit_full_adder_tb
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module four_bit_full_adder_tb();
 
