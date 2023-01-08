@@ -7,5 +7,6 @@ module four_bit_full_adder(
     output Cout
 );
 
+assign {Cout, S} = A + B + Cin;
 
 endmodule
