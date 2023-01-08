@@ -2,11 +2,11 @@
 
 module four_bit_full_adder_tb();
 
-reg [3:0] A;
-reg [3:0] B;
-reg Cin;
-wire [3:0] S;
-wire Cout;
+reg     [3:0]   A;
+reg     [3:0]   B;
+reg             Cin;
+wire    [3:0]   S;
+wire            Cout;
 
 always begin
     #10
